@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: замените your-domain.ru на реальный домен
+Sitemap: https://your-domain.ru/sitemap.xml
